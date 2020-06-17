@@ -1,3 +1,4 @@
+# Falta corrigir bug!!
 from math import sqrt
 from time import sleep
 loop = 0
