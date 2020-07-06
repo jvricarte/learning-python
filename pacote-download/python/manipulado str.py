@@ -20,3 +20,4 @@ frase.rstrip() ignora espaços excedentes somente a direita
 frase.lstrip() ignora espaços excedentes somente a esquerda
 frase.split() divide a string onde tiver espaço entre as palavras gerando uma lista
 '-'.join(frase) junta a split com o "-"
+'''
